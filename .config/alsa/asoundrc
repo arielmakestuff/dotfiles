@@ -1,0 +1,4 @@
+# Set default device and control (see aplay -l output)
+defaults.ctl.card 2 
+defaults.pcm.card 2
+defaults.pcm.device 0
