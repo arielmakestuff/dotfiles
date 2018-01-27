@@ -1,2 +1,7 @@
-[.config/zsh]
+[DEFAULT]
 submodule = git submodule update --init --recursive
+git_gc = git gc "$@"
+
+[.config/zsh]
+
+[.config/nvim]
