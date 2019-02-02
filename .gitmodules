@@ -1,6 +1,8 @@
 [submodule ".config/zsh"]
 	path = .config/zsh
 	url = https://github.com/arielmakestuff/zshconfig.git
+        branch = develop
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = https://github.com/arielmakestuff/nvim-config.git
+        branch = develop
